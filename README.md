@@ -17,7 +17,7 @@ DevPilot提供多轮对话能力，通过对话窗口也可以快速的关联私
 
 ## 支持的IDEs
 1. JetBrains IDEs (2022.1 ~ 2024.1)
-2. Visual Studio Code (1.70+)
+2. Visual Studio Code (1.75+)
 
 ## 如何使用DevPilot插件
 [JetBrains DevPilot 插件文档](README_JetBrains.md)

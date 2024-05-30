@@ -17,7 +17,7 @@ Support for Java, Python, Kotlin, JavaScript, TypeScript and other major program
 
 ## IDEs Supports
 1. JetBrains IDEs (2022.1 ~ 2024.1)
-2. Visual Studio Code (1.70+)
+2. Visual Studio Code (1.75+)
 
 ## How To Use
 [JetBrains DevPilot](README_JetBrains_EN.md)
