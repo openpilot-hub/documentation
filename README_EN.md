@@ -24,6 +24,8 @@ Support for Java, Python, Kotlin, JavaScript, TypeScript and other major program
 
 [Visual Studio Code DevPilot](README_VSCode_EN.md)
 
+[DevPilot Gateway](README_Gateway_EN.md)
+
 ## RAG Preview Function
 [RAG](README_RAG_EN.md)
 

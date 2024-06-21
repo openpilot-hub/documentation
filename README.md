@@ -24,6 +24,8 @@ DevPilot提供多轮对话能力，通过对话窗口也可以快速的关联私
 
 [VS Code DevPilot 插件文档](README_VSCode.md)
 
+[DevPilot Gateway使用文档](README_Gateway.md)
+
 ## RAG Preview功能使用手册
 [RAG 功能使用手册](README_RAG.md)
 
